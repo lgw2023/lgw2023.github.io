@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guo-Wei Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "coming soon... "
 repository               : "lgw2023/lgw2023.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guo-Wei Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanjing University; Partner Institute for Computational Biology, Chinese Academy of Sciences (CAS)"
+  bio              : "Nanjing University, China\nPartner Institute for Computational Biology, Chinese Academy of Sciences (CAS)"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
