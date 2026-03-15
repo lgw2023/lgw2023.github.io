@@ -22,11 +22,6 @@ I am a Principal Engineer at Huawei 2012 Lab with a Ph.D. in Bioinformatics from
 My work has been published in journals including *Genome Biology*, *Advanced Science*, *Cell Reports*, *EMBO Reports*, and *Genomics, Proteomics & Bioinformatics*, with total <a href='https://scholar.google.com/citations?user=ZrgFF-UAAAAJ'>google scholar citations <strong><span id='total_cit'>485+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=ZrgFF-UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- *2024.11*: &nbsp;🎉🎉 Our paper "An AI agent for fully automated multi-omic analyses" is published in *Advanced Science*.
-- *2023.01*: &nbsp;🎉🎉 Our paper on lincRNA CLAP and itch sensation is published in *EMBO Reports*.
-
-
 # 📝 Publications
 
 - [An AI Agent for Fully Automated Multi-Omic Analyses](https://onlinelibrary.wiley.com/doi/10.1002/advs.202407094), **Guo-Wei Li** et al., *Advanced Science*, 11(44): 2407094, 2024 <strong><span class='show_paper_citations' data='ZrgFF-UAAAAJ:qjMakFHDy7sC'></span></strong>
