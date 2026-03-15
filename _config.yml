@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guo-Wei Li"
   avatar           : "assets/images/WechatIMG1319.jpeg"
-  bio              : "Nanjing University, China\nPartner Institute for Computational Biology, Chinese Academy of Sciences (CAS)"
+  bio              : "Principal Engineer @ Huawei 2012 Lab\nPh.D. in Bioinformatics, Chinese Academy of Sciences"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "国卫-李-3a3015234" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

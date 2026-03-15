@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a researcher in computational biology and bioinformatics, affiliated with Nanjing University and the Partner Institute for Computational Biology, Chinese Academy of Sciences (CAS). My research focuses on RNA biology — including circular RNAs (circRNAs) and long intergenic non-coding RNAs (lincRNAs) — and their functional roles in neuronal development and sensory biology. I also develop computational tools for single-cell genomics and leverage AI/machine learning for integrated multi-omic data analysis.
+I am a Principal Engineer at Huawei 2012 Lab with a Ph.D. in Bioinformatics from the Chinese Academy of Sciences (2017–2022). My doctoral research focused on transcriptomics and RNA biology, including RNA modifications, circular RNAs (circRNAs), long intergenic non-coding RNAs (lincRNAs), and their roles in neuronal development and sensory function. I have extensive experience developing computational pipelines and algorithms for single-cell sequencing and multi-omic data analysis.
 
 My work has been published in journals including *Genome Biology*, *Advanced Science*, *Cell Reports*, *EMBO Reports*, and *Genomics, Proteomics & Bioinformatics*, with total <a href='https://scholar.google.com/citations?user=ZrgFF-UAAAAJ'>google scholar citations <strong><span id='total_cit'>485+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=ZrgFF-UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -69,11 +69,20 @@ My work has been published in journals including *Genome Biology*, *Advanced Sci
 
 
 # 🎖 Honors and Awards
-- Coming soon.
+- *2020 - 2021* National Scholarship, University of Chinese Academy of Sciences
+- *2018 - 2019* Merit Student (三好学生), University of Chinese Academy of Sciences
+- *2013 - 2017* First Prize People's Scholarship (人民奖学金一等奖), Nanjing University
+- *2013 - 2017* Liao's Scholarship (廖氏奖学金), Nanjing University
+- *2013 - 2017* Outstanding Student Award (优秀学生标兵), Nanjing University
+- *2013 - 2017* Gold Medal, iGEM International Genetically Engineered Machine Competition
+- *2013 - 2017* Second Prize, Nanjing University Academic and Science & Technology Exhibition
 
 
 # 📖 Educations
-- Coming soon.
+- *2017.09 - 2022*, Ph.D. in Bioinformatics, **Chinese Academy of Sciences**
+  - National Scholarship (2020–2021); Merit Student (2018–2019)
+- *2013.09 - 2017.07*, B.S. in Life Sciences, **Nanjing University**
+  - GPA: 4.575/5.0 (Rank 3rd in major); Vice President of the College Student Union
 
 
 # 💬 Invited Talks
@@ -81,4 +90,6 @@ My work has been published in journals including *Genome Biology*, *Advanced Sci
 
 
 # 💻 Internships
-- Coming soon.
+- *2026.03 - present*, Principal Engineer, [Huawei](https://www.huawei.com) 2012 Lab, Shanghai, China.
+- *2023.02 - 2026.03*, Senior Algorithm Engineer, [Huawei](https://www.huawei.com) 2012 Lab, Zhejiang, China.
+- *2017.09 - 2022*, Research Assistant, Institute of Nutrition and Health, Chinese Academy of Sciences (formerly Partner Institute for Computational Biology, CAS), Shanghai, China.
