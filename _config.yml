@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Guo-Wei Li"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "assets/images/WechatIMG1319.jpeg"
   bio              : "Nanjing University, China\nPartner Institute for Computational Biology, Chinese Academy of Sciences (CAS)"
   location         : "Shenzhen, China"
   employer         :
