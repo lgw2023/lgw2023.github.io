@@ -29,33 +29,9 @@ My work has been published in journals including *Genome Biology*, *Advanced Sci
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genomics Proteomics Bioinformatics 2018</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [CIRCpedia v2: An Updated Database for Comprehensive Circular RNA Annotation and Expression Comparison](https://www.sciencedirect.com/science/article/pii/S1672022918301438), **Guo-Wei Li** et al., *Genomics, Proteomics & Bioinformatics*, 16(4): 226–233, 2018 <strong><span class='show_paper_citations' data='ZrgFF-UAAAAJ:d1gkVwhDpl0C'></span></strong>
 
-[CIRCpedia v2: An Updated Database for Comprehensive Circular RNA Annotation and Expression Comparison](https://www.sciencedirect.com/science/article/pii/S1672022918301438)
-
-**Guo-Wei Li** et al.
-
-*Genomics, Proteomics & Bioinformatics*, 16(4): 226–233, 2018
-
-[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZrgFF-UAAAAJ&citation_for_view=ZrgFF-UAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='ZrgFF-UAAAAJ:d1gkVwhDpl0C'></span></strong>
-- An updated database for comprehensive circRNA annotation and cross-tissue/cell-type expression comparison.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An AI Agent for Fully Automated Multi-Omic Analyses](https://onlinelibrary.wiley.com/doi/10.1002/advs.202407094)
-
-**Guo-Wei Li** et al.
-
-*Advanced Science*, 11(44): 2407094, 2024
-
-[**Google Scholar**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ZrgFF-UAAAAJ&citation_for_view=ZrgFF-UAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='ZrgFF-UAAAAJ:qjMakFHDy7sC'></span></strong>
-- An AI agent framework for end-to-end automated analysis of multi-omic datasets.
-</div>
-</div>
+- [An AI Agent for Fully Automated Multi-Omic Analyses](https://onlinelibrary.wiley.com/doi/10.1002/advs.202407094), **Guo-Wei Li** et al., *Advanced Science*, 11(44): 2407094, 2024 <strong><span class='show_paper_citations' data='ZrgFF-UAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - [Knockout of circRNAs by Base Editing Back-Splice Sites of Circularized Exons](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02563-8), **Guo-Wei Li** et al., *Genome Biology*, 23(1): 16, 2022
 
